@@ -13,7 +13,7 @@ G5 - Jeehyun Lee, Yinghan Xu
 **4_Vgg_Feature_Extract**  
 
 ## III. Combined Model  
-"5_Concatenate_Model" : Required to load 'nuclei' data and 'PCA' data  
+**5_Concatenate_Model** : Required to load 'nuclei' data and 'PCA' data  
 
 ## IV. Test  
-"6_Test_BACH"  
+**6_Test_BACH**  
