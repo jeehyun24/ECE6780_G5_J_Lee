@@ -1,5 +1,6 @@
 ## Breast Cancer Pathological Image Classification
 G5 - Jeehyun Lee, Yinghan Xu  
+For ***"Type-I"*** and ***"Type-II"*** model
 
 
 ### I. Data preparation  
