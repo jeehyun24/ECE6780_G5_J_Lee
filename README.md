@@ -1,2 +1,2 @@
-# ECE6780 Improving Classification for Breast Cancer Pathological Images and Mitigate Data Bias
+# ECE6780 Breast Cancer Pathological Image Classification
 G5 - Jeehyun Lee, Yinghan Xu
